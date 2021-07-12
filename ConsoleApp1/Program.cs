@@ -6,7 +6,9 @@ namespace ConsoleApp1
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Console.WriteLine("Prima Prova!");
+            Console.WriteLine("Colore stringa");
+            Console.WriteLine("Inserisci i dati");
         }
     }
 }
